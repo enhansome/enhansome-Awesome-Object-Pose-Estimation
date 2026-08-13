@@ -1,0 +1,1802 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Introduction | 2. Datasets"
+    },
+    {
+      "description": "Note: For any missing or recently published papers, feel free to pull a request, we will add them asap :)",
+      "items": [],
+      "title": "3. Instance-Level | 4. Category-Level | 5. Unseen | 6. Applications"
+    },
+    {
+      "description": "This is the official repository of paper ''Deep Learning-Based Object Pose Estimation: A Comprehensive Survey'' published in IJCV. Specifically, we first introduce the datasets used for object pose estimation. Then, we review the instance-level, category-level, and unseen methods, respectively. Finally, we summarize the common applications of this task. The taxonomy of this survey is shown as follows\nA comparison of instance-level, category-level, and unseen methods is shown as follows. Instance-level methods can only estimate the pose of specific object instances on which they are trained. Category-level methods can infer intra-class unseen instances rather than being limited to specific instances in the training data. In contrast, unseen object pose estimation methods have stronger generalization ability and can handle object categories not encountered during training.",
+      "items": [],
+      "title": "1. Introduction"
+    },
+    {
+      "description": "Chronological overview of the datasets for object pose estimation evaluation. Notably, the pink arrows represent the BOP Challenge datasets, which can be used to evaluate both instance-level and unseen object methods. The red references represent the datasets of articulated objects.",
+      "items": [],
+      "title": "2. Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YCBInEOAT Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T04:29:11Z",
+            "owner": "wenbowen123",
+            "repo": "iros20-6d-pose-tracking",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClearPose Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T15:13:55Z",
+            "owner": "opipari",
+            "repo": "ClearPose",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MP6D Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-10T12:04:09Z",
+            "owner": "yhan9848",
+            "repo": "MP6D",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "2.1 Datasets for Instance-Level Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Objectron Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-06T17:27:37Z",
+            "owner": "google-research-datasets",
+            "repo": "Objectron",
+            "stars": 2348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAMERA25 Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-02T03:55:39Z",
+            "owner": "hughw19",
+            "repo": "NOCS_CVPR2019",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REAL275 Dataset [Paper]",
+          "description": "[Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-02T03:55:39Z",
+            "owner": "hughw19",
+            "repo": "NOCS_CVPR2019",
+            "stars": 501
+          }
+        }
+      ],
+      "title": "2.2 Datasets for Category-Level Methods"
+    },
+    {
+      "description": "Instance-level object pose estimation describes the task of estimating the pose of the objects that have been seen during the training of the model. We classify existing instance-level methods into four categories: correspondence-based, template-based, voting-based, and regression-based methods. The illustration of these four categories is shown as follows",
+      "items": [],
+      "title": "3. Instance-Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.1 Correspondence-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T21:16:14Z",
+            "owner": "kirumang",
+            "repo": "Pix2Pose",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CDPN: Coordinates-based Disentangled Pose Network for Real-time RGB-Based 6-DoF Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-21T09:55:30Z",
+            "owner": "LZGMatrix",
+            "repo": "CDPN_ICCV2019_ZhigangLi",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPOD: 6D Pose Object Detector and Refiner [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-01T06:13:02Z",
+            "owner": "zakharos",
+            "repo": "DPOD",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-01T16:51:58Z",
+            "owner": "tjiiv-cprg",
+            "repo": "EPro-PnP",
+            "stars": 1176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-25T14:15:09Z",
+            "owner": "suyz526",
+            "repo": "ZebraPose",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coupled Iterative Refinement for 6D Multi-Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-26T00:01:59Z",
+            "owner": "princeton-vl",
+            "repo": "Coupled-Iterative-Refinement",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurfEmb: Dense and Continuous Correspondence Distributions for Object Pose Estimation with Learnt Surface Embeddings [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-13T11:54:35Z",
+            "owner": "rasmushaugaard",
+            "repo": "surfemb",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Correspondence Field for Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-16T00:45:58Z",
+            "owner": "LinHuang17",
+            "repo": "NCF-code",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perspective Flow Aggregation for Data-Limited 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T09:27:05Z",
+            "owner": "cvlab-epfl",
+            "repo": "perspective-flow-aggregation",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiCo-Net: Regress Globally, Match Locally for Robust 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T08:55:32Z",
+            "owner": "Gorilla-Lab-SCUT",
+            "repo": "BiCo-Net",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-07T01:39:22Z",
+            "owner": "YangHai-1218",
+            "repo": "PseudoFlow",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Center-Based Decoupled Point Cloud Registration for 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-14T10:10:54Z",
+            "owner": "Jiang-HB",
+            "repo": "CenterReg",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometric-aware dense matching network for 6D pose estimation of objects from RGB-D images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-14T12:10:09Z",
+            "owner": "Ray0089",
+            "repo": "geometric-aware-dense-matching",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RNNPose: 6-DoF Object Pose Estimation Via Recurrent Correspondence Field Estimation and Pose Optimization [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-07T15:23:47Z",
+            "owner": "DecaYale",
+            "repo": "RNNPose",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T12:40:09Z",
+            "owner": "lyltc1",
+            "repo": "HiPose",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.2 Template-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.3 Voting-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-21T12:46:16Z",
+            "owner": "ethnhe",
+            "repo": "FFB6D",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ParametricNet: 6DoF Pose Estimation Network for Parametric Shapes in Stacked Scenarios [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-08T02:43:55Z",
+            "owner": "lvwj19",
+            "repo": "ParametricNet",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-29T17:12:49Z",
+            "owner": "aaronWool",
+            "repo": "rcvpose",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Estimate Object Poses without Real Image Annotations [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-04T05:22:56Z",
+            "owner": "zju3dv",
+            "repo": "pvnet-depth-sup",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robust 6D Object Pose Estimation by Learning RGB-D Features [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-09T16:35:53Z",
+            "owner": "mentian",
+            "repo": "object-posenet",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PR-GCN: A Deep Graph Convolutional Network With Point Refinement for 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-30T16:41:30Z",
+            "owner": "sj-li",
+            "repo": "PR-GCN",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TemporalFusion: Temporal Motion Reasoning with Multi-Frame Fusion for 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-27T08:58:17Z",
+            "owner": "mufengjun260",
+            "repo": "TemporalFusion21",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-11T15:05:31Z",
+            "owner": "GANWANSHUI",
+            "repo": "ES6D",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SC6D: Symmetry-agnostic and Correspondence-free 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-10T09:08:10Z",
+            "owner": "dingdingcai",
+            "repo": "SC6D-pose",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3.4 Regression-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T08:10:58Z",
+            "owner": "THU-DA-6D-Pose-Group",
+            "repo": "GDR-Net",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-13T05:42:44Z",
+            "owner": "THU-DA-6D-Pose-Group",
+            "repo": "self6dpp",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-08T20:52:41Z",
+            "owner": "shangbuhuan13",
+            "repo": "SO-Pose",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudAAE: Learning 6D Object Pose Regression with On-Line Data Synthesis on Point Clouds [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-31T02:52:38Z",
+            "owner": "GeeeG",
+            "repo": "CloudAAE",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StablePose: Learning 6D Object Poses From Geometrically Stable Patches [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-26T15:49:37Z",
+            "owner": "demianhj",
+            "repo": "stablepose_pytorch",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-08-13T15:09:24Z",
+            "owner": "yuxng",
+            "repo": "PoseCNN",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-14T18:24:46Z",
+            "owner": "wadimkehl",
+            "repo": "ssd-6d",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep 6-DOF Tracking [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-20T02:16:38Z",
+            "owner": "lvsn",
+            "repo": "deeptracking",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepIM: Deep Iterative Matching for 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-23T17:31:06Z",
+            "owner": "liyi14",
+            "repo": "mx-DeepIM",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-Time Object Pose Estimation with Pose Interpreter Networks [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-11T09:49:49Z",
+            "owner": "jimmyyhwu",
+            "repo": "pose-interpreter-networks",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Model-Based 6D Pose Refinement in RGB [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-09T17:07:45Z",
+            "owner": "fabi92",
+            "repo": "eccv18-rgb_pose_refinement",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-19T05:49:55Z",
+            "owner": "ryohachiuma",
+            "repo": "Deep-6dPose",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PCRNet: Point Cloud Registration Network using PointNet Encoding [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-21T23:44:13Z",
+            "owner": "vinits5",
+            "repo": "pcrnet",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regression-Based Three-Dimensional Pose Estimation for Texture-Less Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-17T07:51:21Z",
+            "owner": "NUAA-Yuanpeng",
+            "repo": "PoseRegression",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "se(3)-TrackNet: Data-Driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T04:29:11Z",
+            "owner": "wenbowen123",
+            "repo": "iros20-6d-pose-tracking",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CosyPose: Consistent Multi-view Multi-object 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-19T14:23:21Z",
+            "owner": "yannlabb",
+            "repo": "cosypose",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EfficientPose: An Efficient, Accurate and Scalable End-to-End 6D Multi Object Pose Estimation Approach [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-17T09:20:24Z",
+            "owner": "ybkscht",
+            "repo": "EfficientPose",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self6D: Self-Supervised Monocular 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-13T05:42:44Z",
+            "owner": "THU-DA-6D-Pose-Group",
+            "repo": "self6dpp",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RePOSE: Fast 6D Object Pose Refinement via Deep Texture Rendering [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-09-11T21:14:57Z",
+            "owner": "sh8",
+            "repo": "RePOSE",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pose Estimation from RGB Images of Highly Symmetric Objects using a Novel Multi-Pose Loss and Differential Rendering [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-23T13:21:10Z",
+            "owner": "shbe-aau",
+            "repo": "multi-pose-estimation",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "Research on category-level methods has garnered significant attention due to their potential for generalizing to unseen objects within established categories. We classify them into two categories: shape prior-based and shape prior-free methods. The illustration of these two categories is shown as follows",
+      "items": [],
+      "title": "4. Category-Level"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.1 Shape Prior-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-16T09:33:07Z",
+            "owner": "goldoak",
+            "repo": "DMSR",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DR-Pose: A Two-Stage Deformation-and-Registration Pipeline for Category-Level 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-21T16:32:10Z",
+            "owner": "Zray26",
+            "repo": "DR-Pose",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation [Project Page",
+          "description": "] [Paper] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-27T18:07:16Z",
+            "owner": "zubair-irshad",
+            "repo": "CenterSnap",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShAPO: Implicit Representations for Multi-Object Shape Appearance and Pose Optimization [Project Page",
+          "description": "] [Paper] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-27T18:09:42Z",
+            "owner": "zubair-irshad",
+            "repo": "shapo",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Category-Level 6D Object Pose and Size Estimation Using Self-supervised Deep Prior Deformation Networks [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-10T07:40:39Z",
+            "owner": "JiehongLin",
+            "repo": "Self-DPDN",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CATRE: Iterative Point Clouds Alignment for Category-Level Object Pose Refinement [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T04:11:01Z",
+            "owner": "THU-DA-6D-Pose-Group",
+            "repo": "CATRE",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T12:11:14Z",
+            "owner": "lolrudy",
+            "repo": "RBP_Pose",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation [Project Page",
+          "description": "] [Paper] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-27T22:55:30Z",
+            "owner": "woven-by-toyota",
+            "repo": "DiffusionNOCS",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MH6D: Multi-Hypothesis Consistency Learning for Category-Level 6-D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-19T00:41:16Z",
+            "owner": "CNJianLiu",
+            "repo": "MH6D",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "4.2 Shape Prior-Free Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FS-Net: Fast Shape-Based Network for Category-Level 6D Object Pose Estimation With Decoupled Rotation Mechanism [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-08T09:38:47Z",
+            "owner": "DC1991",
+            "repo": "FS_Net",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation from Point Clouds [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-22T06:43:01Z",
+            "owner": "dragonlong",
+            "repo": "equi-pose",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-06T16:31:41Z",
+            "owner": "real-stanford",
+            "repo": "garmentnets",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-18T08:32:01Z",
+            "owner": "lolrudy",
+            "repo": "GPV_Pose",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-13T02:40:02Z",
+            "owner": "qq456cvb",
+            "repo": "CPPF",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Category-Level Articulated Object Pose Estimation with Part-Level SE(3) Equivariance [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T13:34:46Z",
+            "owner": "Meowuu7",
+            "repo": "equi-articulated-pose",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HS-Pose: Hybrid Scope Feature Extraction for Category-Level Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-29T06:07:07Z",
+            "owner": "Lynne-Zheng-Linfang",
+            "repo": "HS-Pose",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Query6DoF: Learning Sparse Queries as Implicit Shape Prior for Category-Level 6DoF Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-04T13:04:33Z",
+            "owner": "hustvl",
+            "repo": "Query6DoF",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOCS: Semantically-Aware Object Coordinate Space for Category-Level 6D Object Pose Estimation under Large Shape Variations [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-24T16:17:04Z",
+            "owner": "wanboyan",
+            "repo": "SOCS",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-13T19:00:37Z",
+            "owner": "wenbowen123",
+            "repo": "BundleTrack",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DualPoseNet: Category-Level 6D Object Pose and Size Estimation Using Dual Pose Network With Refined Learning of Pose Consistency [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-17T11:52:16Z",
+            "owner": "Gorilla-Lab-SCUT",
+            "repo": "DualPoseNet",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparse Steerable Convolutions: An Efficient Learning of SE(3)-Equivariant Features for Estimation and Tracking of Object Poses in 3D Space [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-02T10:47:01Z",
+            "owner": "Gorilla-Lab-SCUT",
+            "repo": "SS-Conv",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IST-Net: Prior-Free Category-Level Pose Estimation with Implicit Space Transformation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-07T03:29:07Z",
+            "owner": "CVMI-Lab",
+            "repo": "IST-Net",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VI-Net: Boosting Category-Level 6D Object Pose Estimation via Learning Decoupled Rotations on the Spherical Representations [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T13:53:27Z",
+            "owner": "JiehongLin",
+            "repo": "VI-Net",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zero-Shot Category-Level Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T13:20:22Z",
+            "owner": "applied-ai-lab",
+            "repo": "zero-shot-pose",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Visual Navigation Perspective for Category-Level Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-05T11:39:20Z",
+            "owner": "wrld",
+            "repo": "visual_navigation_pose_estimation",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "Unseen object pose estimation methods can generalize to unseen objects without the need for retraining. We classify existing unseen methods into two categories: CAD model-based and manual reference view-based methods. The illustration of these two categories is shown as follows",
+      "items": [],
+      "title": "5. Unseen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5.1 CAD Model-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-12T17:28:06Z",
+            "owner": "megapose6d",
+            "repo": "megapose6d",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Templates for 3D Object Pose Estimation Revisited: Generalization to New objects and Robustness to Occlusions [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-31T15:48:23Z",
+            "owner": "nv-nguyen",
+            "repo": "template-pose",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OVE6D: Object Viewpoint Encoding for Depth-Based 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-21T14:31:34Z",
+            "owner": "dingdingcai",
+            "repo": "OVE6D-pose",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DISP6D: Disentangled Implicit Shape and Pose Learning for Scalable 6D Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T11:06:59Z",
+            "owner": "fylwen",
+            "repo": "DISP-6D",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-03T12:30:42Z",
+            "owner": "sailor-z",
+            "repo": "Unseen_Object_Pose",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Diff-DOPE: Differentiable Deep Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-09T16:01:45Z",
+            "owner": "NVlabs",
+            "repo": "diff-dope",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZS6D: Zero-Shot 6D Object Pose Estimation using Vision Transformers [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-11T10:06:28Z",
+            "owner": "PhilippAuss",
+            "repo": "ZS6D",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T16:53:08Z",
+            "owner": "NVlabs",
+            "repo": "FoundationPose",
+            "stars": 3478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-06T17:13:23Z",
+            "owner": "nv-nguyen",
+            "repo": "gigapose",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object Pose Estimation via the Aggregation of Diffusion Features [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-25T14:58:04Z",
+            "owner": "Tianfu18",
+            "repo": "diff-feats-pose",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "5.2 Manual Reference View-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OnePose: One-Shot Object Pose Estimation without CAD Models [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T01:48:14Z",
+            "owner": "zju3dv",
+            "repo": "OnePose",
+            "stars": 1009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T23:52:08Z",
+            "owner": "zju3dv",
+            "repo": "OnePose_Plus_Plus",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FS6D: Few-Shot 6D Pose Estimation of Novel Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-31T14:55:31Z",
+            "owner": "ethnhe",
+            "repo": "FS6D-PyTorch",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T17:57:24Z",
+            "owner": "paulpanwang",
+            "repo": "POPE",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoseMatcher: One-shot 6D Object Pose Estimation by Deep Feature Matching [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-03T14:16:30Z",
+            "owner": "PedroCastro",
+            "repo": "PoseMatcher",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T16:14:16Z",
+            "owner": "liuyuan-pal",
+            "repo": "Gen6D",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-08T09:33:32Z",
+            "owner": "nv-nguyen",
+            "repo": "pizza",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T16:53:08Z",
+            "owner": "NVlabs",
+            "repo": "FoundationPose",
+            "stars": 3478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NOPE: Novel Object Pose Estimation from a Single Image [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-02T07:22:36Z",
+            "owner": "nv-nguyen",
+            "repo": "nope",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-16T06:00:04Z",
+            "owner": "dingdingcai",
+            "repo": "GSPose",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-26T15:03:28Z",
+            "owner": "paulpanwang",
+            "repo": "Cas6D",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-28T20:08:22Z",
+            "owner": "sailor-z",
+            "repo": "LocPoseNet",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "Chronological overview of some representative applications of object pose estimation methods. The black references, red references, and orange references represent the application of instance-level, category-level, and unseen methods, respectively.",
+      "items": [],
+      "title": "6. Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-06T18:35:10Z",
+            "owner": "NVlabs",
+            "repo": "Deep_Object_Pose",
+            "stars": 1175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-03-14T17:36:54Z",
+            "owner": "wkentaro",
+            "repo": "morefusion",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "6.1 Robotic Manipulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T16:53:08Z",
+            "owner": "NVlabs",
+            "repo": "FoundationPose",
+            "stars": 3478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T16:14:16Z",
+            "owner": "liuyuan-pal",
+            "repo": "Gen6D",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T23:52:08Z",
+            "owner": "zju3dv",
+            "repo": "OnePose_Plus_Plus",
+            "stars": 458
+          }
+        }
+      ],
+      "title": "6.2 Augmented Reality/Virtual Reality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wide-Depth-Range 6D Object Pose Estimation in Space [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-01T12:32:27Z",
+            "owner": "cvlab-epfl",
+            "repo": "wide-depth-range-pose",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CA-SpaceNet: Counterfactual Analysis for 6D Pose Estimation in Space [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-18T07:44:40Z",
+            "owner": "Shunli-Wang",
+            "repo": "CA-SpaceNet",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "6.3 Aerospace"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-31T10:17:06Z",
+            "owner": "amathislab",
+            "repo": "HOISDF",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harmonious Feature Learning for Interactive Hand-Object Pose Estimation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-28T08:40:12Z",
+            "owner": "lzfff12",
+            "repo": "HFL-Net",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "6.4 Hand-Object Interaction"
+    },
+    {
+      "description": "If you find the paper useful, please cite our paper.",
+      "items": [],
+      "title": "Citation"
+    },
+    {
+      "description": "Due to the one-sided nature of our knowledge, if you find any issues or have any suggestions, please feel free to post an issue or contact us via email",
+      "items": [],
+      "title": "Contact"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:04.173Z",
+    "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
+    "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Object-Pose-Estimation",
+    "enhanced_repository_description": null,
+    "title": "Awesome [IJCV'26] Deep Learning-Based Object Pose Estimation: A Comprehensive Survey with stars"
+  }
+}
