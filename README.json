@@ -1284,7 +1284,7 @@
             "last_commit": "2024-12-12T17:28:06Z",
             "owner": "megapose6d",
             "repo": "megapose6d",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -1394,7 +1394,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3479
+            "stars": 3481
           }
         },
         {
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3479
+            "stars": 3481
           }
         },
         {
@@ -1678,7 +1678,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3479
+            "stars": 3481
           }
         },
         {
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:11:30.872Z",
+    "last_updated": "2026-08-14T06:08:28.008Z",
     "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
     "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Object-Pose-Estimation",
