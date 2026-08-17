@@ -62,7 +62,7 @@
             "last_commit": "2023-09-10T12:04:09Z",
             "owner": "yhan9848",
             "repo": "MP6D",
-            "stars": 19
+            "stars": 20
           }
         }
       ],
@@ -1394,7 +1394,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3483
+            "stars": 3485
           }
         },
         {
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3483
+            "stars": 3485
           }
         },
         {
@@ -1644,7 +1644,7 @@
             "last_commit": "2025-08-06T18:35:10Z",
             "owner": "NVlabs",
             "repo": "Deep_Object_Pose",
-            "stars": 1175
+            "stars": 1176
           }
         },
         {
@@ -1678,7 +1678,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3483
+            "stars": 3485
           }
         },
         {
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:21:25.573Z",
+    "last_updated": "2026-08-17T05:28:41.325Z",
     "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
     "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Object-Pose-Estimation",
