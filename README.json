@@ -1506,7 +1506,7 @@
                     "last_commit": "2025-01-06T17:13:23Z",
                     "owner": "nv-nguyen",
                     "repo": "gigapose",
-                    "stars": 291
+                    "stars": 292
                   }
                 },
                 {
@@ -1998,7 +1998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:11:42.889Z",
+    "last_updated": "2026-08-20T05:23:19.763Z",
     "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
     "original_repository_id": 797118858,
     "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
