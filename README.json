@@ -15,7 +15,7 @@
             "last_commit": "2023-08-30T04:29:11Z",
             "owner": "wenbowen123",
             "repo": "iros20-6d-pose-tracking",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-03-06T17:27:37Z",
             "owner": "google-research-datasets",
             "repo": "Objectron",
-            "stars": 2348
+            "stars": 2349
           }
         },
         {
@@ -1145,7 +1145,7 @@
                 "last_commit": "2023-08-30T04:29:11Z",
                 "owner": "wenbowen123",
                 "repo": "iros20-6d-pose-tracking",
-                "stars": 423
+                "stars": 424
               }
             },
             {
@@ -1160,7 +1160,7 @@
                 "last_commit": "2022-09-19T14:23:21Z",
                 "owner": "yannlabb",
                 "repo": "cosypose",
-                "stars": 348
+                "stars": 349
               }
             },
             {
@@ -2244,7 +2244,7 @@
                 "last_commit": "2026-04-29T16:53:08Z",
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3511
+                "stars": 3513
               }
             },
             {
@@ -2500,7 +2500,7 @@
                 "last_commit": "2026-04-29T16:53:08Z",
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3511
+                "stars": 3513
               }
             },
             {
@@ -2658,7 +2658,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3511
+            "stars": 3513
           }
         },
         {
@@ -2709,7 +2709,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3511
+            "stars": 3513
           }
         },
         {
@@ -2819,7 +2819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:42.346Z",
+    "last_updated": "2026-08-26T05:27:16.941Z",
     "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
     "original_repository_id": 797118858,
     "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
