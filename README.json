@@ -594,7 +594,7 @@
                 "last_commit": "2024-07-15T16:29:57Z",
                 "owner": "zju3dv",
                 "repo": "pvnet",
-                "stars": 896
+                "stars": 897
               }
             }
           ],
@@ -1916,7 +1916,7 @@
                 "last_commit": "2024-08-08T15:44:17Z",
                 "owner": "NOrangeeroli",
                 "repo": "SecondPose",
-                "stars": 49
+                "stars": 50
               }
             }
           ],
@@ -2244,7 +2244,7 @@
                 "last_commit": "2026-04-29T16:53:08Z",
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3513
+                "stars": 3517
               }
             },
             {
@@ -2302,7 +2302,7 @@
                 "last_commit": "2024-12-17T01:48:14Z",
                 "owner": "zju3dv",
                 "repo": "OnePose",
-                "stars": 1009
+                "stars": 1010
               }
             },
             {
@@ -2500,7 +2500,7 @@
                 "last_commit": "2026-04-29T16:53:08Z",
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3513
+                "stars": 3517
               }
             },
             {
@@ -2658,7 +2658,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3513
+            "stars": 3517
           }
         },
         {
@@ -2709,7 +2709,7 @@
             "last_commit": "2026-04-29T16:53:08Z",
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3513
+            "stars": 3517
           }
         },
         {
@@ -2760,7 +2760,7 @@
             "last_commit": "2024-11-01T12:32:27Z",
             "owner": "cvlab-epfl",
             "repo": "wide-depth-range-pose",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -2819,9 +2819,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:27:16.941Z",
-    "original_repository": "CNJianLiu/Awesome-Object-Pose-Estimation",
-    "original_repository_id": 797118858,
+    "last_updated": "2026-08-27T11:23:55.803Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 797118858,
+      "language": null,
+      "last_commit": "2026-01-22T06:50:22Z",
+      "owner": "CNJianLiu",
+      "repo": "Awesome-Object-Pose-Estimation",
+      "stars": 449
+    },
     "original_repository_sha": "6467ccf70de14ce90d7b349e16a3afbcca572cf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Object-Pose-Estimation",
     "enhanced_repository_description": null,
