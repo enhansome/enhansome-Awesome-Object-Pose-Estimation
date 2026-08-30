@@ -672,7 +672,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2024
 
-* Open-Vocabulary Object 6D Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2312.00690) [\[Code\]](https://github.com/jcorsetti/oryon) ⭐ 63 | 🐛 3 | 🌐 Python | 📅 2025-05-08
+* Open-Vocabulary Object 6D Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2312.00690) [\[Code\]](https://github.com/jcorsetti/oryon) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2025-05-08
 * MFOS: Model-Free & One-Shot Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2310.01897)
 
 </details>
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

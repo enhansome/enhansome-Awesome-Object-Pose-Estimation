@@ -3362,7 +3362,7 @@
                 "open_issues": 3,
                 "owner": "jcorsetti",
                 "repo": "oryon",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:26:12.482Z",
+    "last_updated": "2026-08-30T10:12:45.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
