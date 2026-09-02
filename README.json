@@ -537,7 +537,7 @@
                 "open_issues": 3,
                 "owner": "Gorilla-Lab-SCUT",
                 "repo": "BiCo-Net",
-                "stars": 19,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -848,7 +848,7 @@
                 "open_issues": 8,
                 "owner": "zju3dv",
                 "repo": "pvnet",
-                "stars": 898,
+                "stars": 899,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -876,7 +876,7 @@
                 "open_issues": 27,
                 "owner": "ethnhe",
                 "repo": "PVN3D",
-                "stars": 540,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1009,7 +1009,7 @@
                 "open_issues": 4,
                 "owner": "junzastar",
                 "repo": "DFTr_Voting",
-                "stars": 55,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1644,7 +1644,7 @@
                 "open_issues": 32,
                 "owner": "yannlabb",
                 "repo": "cosypose",
-                "stars": 349,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1800,7 +1800,7 @@
                 "open_issues": 12,
                 "owner": "YangHai-1218",
                 "repo": "SCFlow",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "6d-pose-estimation",
                   "deep-learning"
@@ -2495,7 +2495,7 @@
                 "open_issues": 14,
                 "owner": "Leeiieeo",
                 "repo": "AG-Pose",
-                "stars": 90,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2989,7 +2989,7 @@
                 "open_issues": 55,
                 "owner": "megapose6d",
                 "repo": "megapose6d",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 144,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3528,
+                "stars": 3531,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 144,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3528,
+                "stars": 3531,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 144,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3528,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3759,7 +3759,7 @@
             "open_issues": 55,
             "owner": "megapose6d",
             "repo": "megapose6d",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 144,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3528,
+            "stars": 3531,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T09:41:37.755Z",
+    "last_updated": "2026-09-02T09:13:33.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
@@ -3979,7 +3979,7 @@
       "open_issues": 0,
       "owner": "CNJianLiu",
       "repo": "Awesome-Object-Pose-Estimation",
-      "stars": 450,
+      "stars": 449,
       "topics": [
         "6d",
         "6d-pose",
