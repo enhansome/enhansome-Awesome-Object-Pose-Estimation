@@ -299,7 +299,7 @@
                 "open_issues": 8,
                 "owner": "zakharos",
                 "repo": "DPOD",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "6d-pose-estimation"
                 ]
@@ -876,7 +876,7 @@
                 "open_issues": 27,
                 "owner": "ethnhe",
                 "repo": "PVN3D",
-                "stars": 539,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1043,7 +1043,7 @@
                 "open_issues": 70,
                 "owner": "j96w",
                 "repo": "DenseFusion",
-                "stars": 1276,
+                "stars": 1275,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3478,7 +3478,7 @@
                 "open_issues": 29,
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1412,
+                "stars": 1413,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:14:19.139Z",
+    "last_updated": "2026-09-05T08:43:44.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",

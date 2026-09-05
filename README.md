@@ -142,7 +142,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 * Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Park_Pix2Pose_Pixel-Wise_Coordinate_Regression_of_Objects_for_6D_Pose_Estimation_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/kirumang/Pix2Pose) ⭐ 195 | 🐛 10 | 🌐 Python | 📅 2022-11-21
 * CDPN: Coordinates-based Disentangled Pose Network for Real-time RGB-Based 6-DoF Object Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_CDPN_Coordinates-Based_Disentangled_Pose_Network_for_Real-Time_RGB-Based_6-DoF_Object_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/LZGMatrix/CDPN_ICCV2019_ZhigangLi) ⭐ 95 | 🐛 14 | 🌐 Python | 📅 2020-12-21
-* DPOD: 6D Pose Object Detector and Refiner [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/zakharos/DPOD) ⭐ 57 | 🐛 8 | 🌐 Python | 📅 2021-01-01
+* DPOD: 6D Pose Object Detector and Refiner [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zakharov_DPOD_6D_Pose_Object_Detector_and_Refiner_ICCV_2019_paper.pdf) [\[Code\]](https://github.com/zakharos/DPOD) ⭐ 58 | 🐛 8 | 🌐 Python | 📅 2021-01-01
 
 #### 2020
 
@@ -233,7 +233,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2020
 
-* PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/ethnhe/PVN3D.git) ⭐ 539 | 🐛 27 | 🌐 Python | 📅 2022-12-27
+* PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/ethnhe/PVN3D.git) ⭐ 540 | 🐛 27 | 🌐 Python | 📅 2022-12-27
 * 6DoF Object Pose Estimation via Differentiable Proxy Voting Loss [\[Paper\]](https://arxiv.org/abs/2002.03923)
 
 #### 2021
@@ -267,7 +267,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2019
 
-* DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/j96w/DenseFusion) ⭐ 1,276 | 🐛 70 | 🌐 Python | 📅 2023-01-02
+* DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/j96w/DenseFusion) ⭐ 1,275 | 🐛 70 | 🌐 Python | 📅 2023-01-02
 
 #### 2020
 
@@ -691,7 +691,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2023
 
-* BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_BundleSDF_Neural_6-DoF_Tracking_and_3D_Reconstruction_of_Unknown_Objects_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/NVlabs/BundleSDF) ⭐ 1,412 | 🐛 29 | 🌐 Python | 📅 2026-05-01
+* BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wen_BundleSDF_Neural_6-DoF_Tracking_and_3D_Reconstruction_of_Unknown_Objects_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/NVlabs/BundleSDF) ⭐ 1,413 | 🐛 29 | 🌐 Python | 📅 2026-05-01
 * SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects [\[Paper\]](https://arxiv.org/pdf/2308.16528)
 
 #### 2024
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
