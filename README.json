@@ -904,7 +904,7 @@
                 "open_issues": 56,
                 "owner": "ethnhe",
                 "repo": "FFB6D",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof-pose",
@@ -3156,7 +3156,7 @@
                 "open_issues": 144,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3537,
+                "stars": 3541,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3424,7 +3424,7 @@
                 "open_issues": 114,
                 "owner": "liuyuan-pal",
                 "repo": "Gen6D",
-                "stars": 721,
+                "stars": 720,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof-pose",
@@ -3506,7 +3506,7 @@
                 "open_issues": 144,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3537,
+                "stars": 3541,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 144,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3537,
+            "stars": 3541,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 144,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3537,
+            "stars": 3541,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3831,7 +3831,7 @@
             "open_issues": 114,
             "owner": "liuyuan-pal",
             "repo": "Gen6D",
-            "stars": 721,
+            "stars": 720,
             "topics": [
               "6d-pose-estimation",
               "6dof-pose",
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T09:52:28.989Z",
+    "last_updated": "2026-09-08T09:17:13.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
