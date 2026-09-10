@@ -814,7 +814,7 @@
                 "open_issues": 9,
                 "owner": "Jiang-HB",
                 "repo": "DiffusionReg",
-                "stars": 125,
+                "stars": 126,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3177,7 +3177,7 @@
                 "open_issues": 19,
                 "owner": "nv-nguyen",
                 "repo": "gigapose",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof",
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T09:20:01.991Z",
+    "last_updated": "2026-09-10T09:18:56.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
