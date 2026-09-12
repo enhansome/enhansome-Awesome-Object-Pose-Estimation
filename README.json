@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "wenbowen123",
             "repo": "iros20-6d-pose-tracking",
-            "stars": 424,
+            "stars": 423,
             "topics": [
               "3d",
               "6d-pose-estimation",
@@ -59,7 +59,7 @@
             "open_issues": 8,
             "owner": "opipari",
             "repo": "ClearPose",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -142,7 +142,7 @@
             "open_issues": 33,
             "owner": "hughw19",
             "repo": "NOCS_CVPR2019",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -163,7 +163,7 @@
             "open_issues": 33,
             "owner": "hughw19",
             "repo": "NOCS_CVPR2019",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1604,7 +1604,7 @@
                 "open_issues": 10,
                 "owner": "wenbowen123",
                 "repo": "iros20-6d-pose-tracking",
-                "stars": 424,
+                "stars": 423,
                 "topics": [
                   "3d",
                   "6d-pose-estimation",
@@ -2004,7 +2004,7 @@
                 "open_issues": 20,
                 "owner": "zubair-irshad",
                 "repo": "CenterSnap",
-                "stars": 325,
+                "stars": 324,
                 "topics": [
                   "3d-computer-vision",
                   "3d-reconstruction",
@@ -2042,7 +2042,7 @@
                 "open_issues": 10,
                 "owner": "zubair-irshad",
                 "repo": "shapo",
-                "stars": 198,
+                "stars": 197,
                 "topics": [
                   "3d-computer-vision",
                   "3d-detection",
@@ -2529,7 +2529,7 @@
                 "open_issues": 33,
                 "owner": "hughw19",
                 "repo": "NOCS_CVPR2019",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2557,7 +2557,7 @@
                 "open_issues": 12,
                 "owner": "wenbowen123",
                 "repo": "BundleTrack",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -3156,7 +3156,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3546,
+                "stars": 3549,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3546,
+                "stars": 3549,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3527,7 +3527,7 @@
                 "open_issues": 9,
                 "owner": "nv-nguyen",
                 "repo": "nope",
-                "stars": 218,
+                "stars": 219,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3546,
+            "stars": 3549,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3546,
+            "stars": 3549,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:17:32.590Z",
+    "last_updated": "2026-09-12T08:57:48.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
