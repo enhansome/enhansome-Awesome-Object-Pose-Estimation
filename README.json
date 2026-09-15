@@ -394,7 +394,7 @@
                 "open_issues": 54,
                 "owner": "tjiiv-cprg",
                 "repo": "EPro-PnP",
-                "stars": 1176,
+                "stars": 1177,
                 "topics": [
                   "3d-object-detection",
                   "6dof",
@@ -425,7 +425,7 @@
                 "open_issues": 17,
                 "owner": "suyz526",
                 "repo": "ZebraPose",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1097,7 +1097,7 @@
                 "license": "MIT",
                 "last_commit": "2020-08-09T16:35:53Z",
                 "open_issues": 1,
-                "owner": "mentian",
+                "owner": "mtiandev",
                 "repo": "object-posenet",
                 "stars": 62,
                 "topics": []
@@ -1863,7 +1863,7 @@
                 "license": "MIT",
                 "last_commit": "2020-07-17T02:24:37Z",
                 "open_issues": 21,
-                "owner": "mentian",
+                "owner": "mtiandev",
                 "repo": "object-deformnet",
                 "stars": 151,
                 "topics": []
@@ -2322,7 +2322,7 @@
                 "open_issues": 2,
                 "owner": "real-stanford",
                 "repo": "garmentnets",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2989,7 +2989,7 @@
                 "open_issues": 55,
                 "owner": "megapose6d",
                 "repo": "megapose6d",
-                "stars": 370,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3557,
+                "stars": 3559,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3254,8 +3254,8 @@
                 "homepage": null,
                 "id": 588924006,
                 "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-10-29T23:52:08Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-15T07:35:13Z",
                 "open_issues": 44,
                 "owner": "zju3dv",
                 "repo": "OnePose_Plus_Plus",
@@ -3506,7 +3506,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3557,
+                "stars": 3559,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3557,
+            "stars": 3559,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3759,7 +3759,7 @@
             "open_issues": 55,
             "owner": "megapose6d",
             "repo": "megapose6d",
-            "stars": 370,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3557,
+            "stars": 3559,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3852,8 +3852,8 @@
             "homepage": null,
             "id": 588924006,
             "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-10-29T23:52:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-15T07:35:13Z",
             "open_issues": 44,
             "owner": "zju3dv",
             "repo": "OnePose_Plus_Plus",
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:14:10.895Z",
+    "last_updated": "2026-09-15T09:43:32.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
@@ -3979,7 +3979,7 @@
       "open_issues": 0,
       "owner": "CNJianLiu",
       "repo": "Awesome-Object-Pose-Estimation",
-      "stars": 451,
+      "stars": 452,
       "topics": [
         "6d",
         "6d-pose",
