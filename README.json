@@ -1800,7 +1800,7 @@
                 "open_issues": 12,
                 "owner": "YangHai-1218",
                 "repo": "SCFlow",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "6d-pose-estimation",
                   "deep-learning"
@@ -2557,7 +2557,7 @@
                 "open_issues": 12,
                 "owner": "wenbowen123",
                 "repo": "BundleTrack",
-                "stars": 687,
+                "stars": 688,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -3156,7 +3156,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3567,
+                "stars": 3571,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3567,
+                "stars": 3571,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3567,
+            "stars": 3571,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3567,
+            "stars": 3571,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:19:21.692Z",
+    "last_updated": "2026-09-19T09:06:44.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
