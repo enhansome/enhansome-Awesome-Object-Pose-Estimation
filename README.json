@@ -107,7 +107,7 @@
             "open_issues": 31,
             "owner": "google-research-datasets",
             "repo": "Objectron",
-            "stars": 2352,
+            "stars": 2353,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -904,7 +904,7 @@
                 "open_issues": 56,
                 "owner": "ethnhe",
                 "repo": "FFB6D",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof-pose",
@@ -1644,7 +1644,7 @@
                 "open_issues": 32,
                 "owner": "yannlabb",
                 "repo": "cosypose",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3574,
+                "stars": 3581,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3362,7 +3362,7 @@
                 "open_issues": 3,
                 "owner": "jcorsetti",
                 "repo": "oryon",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3424,7 +3424,7 @@
                 "open_issues": 114,
                 "owner": "liuyuan-pal",
                 "repo": "Gen6D",
-                "stars": 720,
+                "stars": 721,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof-pose",
@@ -3506,7 +3506,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3574,
+                "stars": 3581,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3574,
+            "stars": 3581,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3574,
+            "stars": 3581,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3831,7 +3831,7 @@
             "open_issues": 114,
             "owner": "liuyuan-pal",
             "repo": "Gen6D",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "6d-pose-estimation",
               "6dof-pose",
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:32:43.938Z",
+    "last_updated": "2026-09-21T10:20:04.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
