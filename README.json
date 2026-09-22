@@ -59,7 +59,7 @@
             "open_issues": 8,
             "owner": "opipari",
             "repo": "ClearPose",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2868,7 +2868,7 @@
                 "open_issues": 72,
                 "owner": "JiehongLin",
                 "repo": "SAM-6D",
-                "stars": 729,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3581,
+                "stars": 3584,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3177,7 +3177,7 @@
                 "open_issues": 19,
                 "owner": "nv-nguyen",
                 "repo": "gigapose",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "6d-pose-estimation",
                   "6dof",
@@ -3450,7 +3450,7 @@
                 "open_issues": 2,
                 "owner": "nv-nguyen",
                 "repo": "pizza",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 145,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3581,
+                "stars": 3584,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3581,
+            "stars": 3584,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 145,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3581,
+            "stars": 3584,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:20:04.342Z",
+    "last_updated": "2026-09-22T09:34:51.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
