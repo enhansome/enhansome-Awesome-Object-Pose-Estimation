@@ -2,9 +2,9 @@
 
 # Awesome \[IJCV'26] Deep Learning-Based Object Pose Estimation: A Comprehensive Survey with stars
 
-[Jian Liu](https://cnjliu.github.io/), [Wei Sun](http://robotics.hnu.edu.cn/info/1071/1265.htm), [Hui Yang](https://scholar.google.com/citations?user=rhQSwuoAAAAJ\&hl=zh-CN), [Zhiwen Zeng](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 452 | 🐛 0 | 📅 2026-01-22, [Chongpei Liu](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 452 | 🐛 0 | 📅 2026-01-22,
+[Jian Liu](https://cnjliu.github.io/), [Wei Sun](http://robotics.hnu.edu.cn/info/1071/1265.htm), [Hui Yang](https://scholar.google.com/citations?user=rhQSwuoAAAAJ\&hl=zh-CN), [Zhiwen Zeng](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 453 | 🐛 0 | 📅 2026-01-22, [Chongpei Liu](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 453 | 🐛 0 | 📅 2026-01-22,
 
-[Jin Zheng](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 452 | 🐛 0 | 📅 2026-01-22, [Xingyu Liu](https://lliu-xingyu.github.io/), [Hossein Rahmani](https://sites.google.com/view/rahmaniatlu), [Nicu Sebe](https://scholar.google.com.hk/citations?user=stFCYOAAAAAJ\&hl=zh-CN\&oi=ao), [Ajmal Mian](https://ajmalsaeed.net/)
+[Jin Zheng](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation/) ⭐ 453 | 🐛 0 | 📅 2026-01-22, [Xingyu Liu](https://lliu-xingyu.github.io/), [Hossein Rahmani](https://sites.google.com/view/rahmaniatlu), [Nicu Sebe](https://scholar.google.com.hk/citations?user=stFCYOAAAAAJ\&hl=zh-CN\&oi=ao), [Ajmal Mian](https://ajmalsaeed.net/)
 
 ### [1. Introduction](#1-introduction) | [2. Datasets](#2-datasets)
 
@@ -187,7 +187,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2018
 
-* Implicit 3D Orientation Learning for 6D Object Detection from RGB Images [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.pdf) [\[Code\]](https://github.com/DLR-RM/AugmentedAutoencoder) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2022-08-16
+* Implicit 3D Orientation Learning for 6D Object Detection from RGB Images [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Martin_Sundermeyer_Implicit_3D_Orientation_ECCV_2018_paper.pdf) [\[Code\]](https://github.com/DLR-RM/AugmentedAutoencoder) ⭐ 364 | 🐛 7 | 🌐 Python | 📅 2022-08-16
 
 #### 2019
 
@@ -618,7 +618,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2020
 
-* Multi-path Learning for Object Pose Estimation Across Domains [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath) ⭐ 363 | 🐛 7 | 🌐 Python | 📅 2022-08-16
+* Multi-path Learning for Object Pose Estimation Across Domains [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/DLR-RM/AugmentedAutoencoder/tree/multipath) ⭐ 364 | 🐛 7 | 🌐 Python | 📅 2022-08-16
 
 #### 2021
 
@@ -662,7 +662,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 #### 2022
 
 * OnePose: One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_OnePose_One-Shot_Object_Pose_Estimation_Without_CAD_Models_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/zju3dv/OnePose) ⭐ 1,012 | 🐛 46 | 🌐 Python | 📅 2024-12-17
-* OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 458 | 🐛 44 | 🌐 Python | 📅 2026-09-15
+* OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 459 | 🐛 44 | 🌐 Python | 📅 2026-09-15
 * FS6D: Few-Shot 6D Pose Estimation of Novel Objects [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/He_FS6D_Few-Shot_6D_Pose_Estimation_of_Novel_Objects_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/ethnhe/FS6D-PyTorch) ⭐ 85 | 🐛 12 | 📅 2023-10-31
 
 #### 2023
@@ -754,7 +754,7 @@ Chronological overview of some representative applications of object pose estima
 
 * FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,595 | 🐛 147 | 🌐 Python | 📅 2026-04-29
 * Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 721 | 🐛 114 | 🌐 Python | 📅 2025-10-26
-* OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 458 | 🐛 44 | 🌐 Python | 📅 2026-09-15
+* OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 459 | 🐛 44 | 🌐 Python | 📅 2026-09-15
 * Deep Multi-state Object Pose Estimation for Augmented Reality Assembly [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8951930)
 * Efficient 6-DoF Tracking of Handheld Objects from an Egocentric Viewpoint [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/html/Rohit_Pandey_Efficient_6-DoF_Tracking_ECCV_2018_paper.html)
 
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

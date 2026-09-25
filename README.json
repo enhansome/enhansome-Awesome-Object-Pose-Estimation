@@ -696,7 +696,7 @@
                 "open_issues": 7,
                 "owner": "DLR-RM",
                 "repo": "AugmentedAutoencoder",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2930,7 +2930,7 @@
                 "open_issues": 7,
                 "owner": "DLR-RM",
                 "repo": "AugmentedAutoencoder",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3259,7 +3259,7 @@
                 "open_issues": 44,
                 "owner": "zju3dv",
                 "repo": "OnePose_Plus_Plus",
-                "stars": 458,
+                "stars": 459,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3647,7 +3647,7 @@
             "open_issues": 15,
             "owner": "wkentaro",
             "repo": "morefusion",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -3857,7 +3857,7 @@
             "open_issues": 44,
             "owner": "zju3dv",
             "repo": "OnePose_Plus_Plus",
-            "stars": 458,
+            "stars": 459,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T09:39:11.239Z",
+    "last_updated": "2026-09-25T09:56:53.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
@@ -3979,7 +3979,7 @@
       "open_issues": 0,
       "owner": "CNJianLiu",
       "repo": "Awesome-Object-Pose-Estimation",
-      "stars": 452,
+      "stars": 453,
       "topics": [
         "6d",
         "6d-pose",
