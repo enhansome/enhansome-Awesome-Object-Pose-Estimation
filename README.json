@@ -3156,7 +3156,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3597,
+                "stars": 3598,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3396,7 +3396,7 @@
                 "open_issues": 7,
                 "owner": "NVlabs",
                 "repo": "latentfusion",
-                "stars": 226,
+                "stars": 225,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3597,
+                "stars": 3598,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3597,
+            "stars": 3598,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3597,
+            "stars": 3598,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T09:39:01.884Z",
+    "last_updated": "2026-09-27T10:18:38.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
