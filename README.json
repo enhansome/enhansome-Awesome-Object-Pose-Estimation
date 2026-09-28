@@ -59,7 +59,7 @@
             "open_issues": 8,
             "owner": "opipari",
             "repo": "ClearPose",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3598,
+                "stars": 3601,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3478,7 +3478,7 @@
                 "open_issues": 29,
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1417,
+                "stars": 1419,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3598,
+                "stars": 3601,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3598,
+            "stars": 3601,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3598,
+            "stars": 3601,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:18:38.733Z",
+    "last_updated": "2026-09-28T11:22:01.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
@@ -3979,7 +3979,7 @@
       "open_issues": 0,
       "owner": "CNJianLiu",
       "repo": "Awesome-Object-Pose-Estimation",
-      "stars": 453,
+      "stars": 454,
       "topics": [
         "6d",
         "6d-pose",
