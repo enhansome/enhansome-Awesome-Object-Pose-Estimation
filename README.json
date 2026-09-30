@@ -107,7 +107,7 @@
             "open_issues": 31,
             "owner": "google-research-datasets",
             "repo": "Objectron",
-            "stars": 2355,
+            "stars": 2356,
             "topics": [
               "3d",
               "3d-reconstruction",
@@ -142,7 +142,7 @@
             "open_issues": 33,
             "owner": "hughw19",
             "repo": "NOCS_CVPR2019",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -163,7 +163,7 @@
             "open_issues": 33,
             "owner": "hughw19",
             "repo": "NOCS_CVPR2019",
-            "stars": 500,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2529,7 +2529,7 @@
                 "open_issues": 33,
                 "owner": "hughw19",
                 "repo": "NOCS_CVPR2019",
-                "stars": 500,
+                "stars": 499,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2868,7 +2868,7 @@
                 "open_issues": 72,
                 "owner": "JiehongLin",
                 "repo": "SAM-6D",
-                "stars": 731,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2989,7 +2989,7 @@
                 "open_issues": 55,
                 "owner": "megapose6d",
                 "repo": "megapose6d",
-                "stars": 373,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3107,7 +3107,7 @@
                 "open_issues": 4,
                 "owner": "NVlabs",
                 "repo": "diff-dope",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3156,7 +3156,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3606,
+                "stars": 3610,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3238,7 +3238,7 @@
                 "open_issues": 46,
                 "owner": "zju3dv",
                 "repo": "OnePose",
-                "stars": 1012,
+                "stars": 1011,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3478,7 +3478,7 @@
                 "open_issues": 29,
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1419,
+                "stars": 1418,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3606,
+                "stars": 3610,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3606,
+            "stars": 3610,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3759,7 +3759,7 @@
             "open_issues": 55,
             "owner": "megapose6d",
             "repo": "megapose6d",
-            "stars": 373,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3606,
+            "stars": 3610,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3884,7 +3884,7 @@
             "open_issues": 5,
             "owner": "cvlab-epfl",
             "repo": "wide-depth-range-pose",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:00:09.604Z",
+    "last_updated": "2026-09-30T10:50:42.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
