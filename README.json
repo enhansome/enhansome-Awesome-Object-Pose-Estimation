@@ -3156,7 +3156,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3506,7 +3506,7 @@
                 "open_issues": 147,
                 "owner": "NVlabs",
                 "repo": "FoundationPose",
-                "stars": 3611,
+                "stars": 3612,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3738,7 +3738,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3611,
+            "stars": 3612,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3810,7 +3810,7 @@
             "open_issues": 147,
             "owner": "NVlabs",
             "repo": "FoundationPose",
-            "stars": 3611,
+            "stars": 3612,
             "topics": []
           },
           "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3932,7 +3932,7 @@
             "open_issues": 6,
             "owner": "amathislab",
             "repo": "HOISDF",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "3d",
               "hand-object-interaction",
@@ -3967,7 +3967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:17:14.998Z",
+    "last_updated": "2026-10-02T10:49:35.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
