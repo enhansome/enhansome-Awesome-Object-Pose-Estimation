@@ -2635,7 +2635,7 @@
                         "open_issues": 12,
                         "owner": "wenbowen123",
                         "repo": "BundleTrack",
-                        "stars": 688,
+                        "stars": 687,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -3250,7 +3250,7 @@
                         "open_issues": 147,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3616,
+                        "stars": 3617,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 147,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3616,
+                        "stars": 3617,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 147,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3616,
+                    "stars": 3617,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 147,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3616,
+                    "stars": 3617,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:49:55.852Z",
+    "last_updated": "2026-10-05T11:58:10.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
