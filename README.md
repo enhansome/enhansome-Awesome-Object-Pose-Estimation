@@ -414,7 +414,7 @@ Research on category-level methods has garnered significant attention due to the
 
 #### 2023
 
-* RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery [\[Paper\]](https://arxiv.org/abs/2309.10255) [\[Code\]](https://github.com/goldoak/DMSR) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2024-04-16
+* RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery [\[Paper\]](https://arxiv.org/abs/2309.10255) [\[Code\]](https://github.com/goldoak/DMSR) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-04-16
 * DR-Pose: A Two-Stage Deformation-and-Registration Pipeline for Category-Level 6D Object Pose Estimation [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10341552) [\[Code\]](https://github.com/Zray26/DR-Pose.git) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2023-03-21
 * Category-Level 6D Pose Estimation Using Geometry-Guided Instance-Aware Prior and Multi-Stage Reconstruction [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10058152)
 * StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images via Back-View NOCS [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10160780) [\[Code\]](https://appsrv.cse.cuhk.edu.hk/~kaichen/stereopose.html)
@@ -476,7 +476,7 @@ Research on category-level methods has garnered significant attention due to the
 #### 2022
 
 * GPV-Pose: Category-Level Object Pose Estimation via Geometry-Guided Point-Wise Voting [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Di_GPV-Pose_Category-Level_Object_Pose_Estimation_via_Geometry-Guided_Point-Wise_Voting_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/lolrudy/GPV_Pose) ⭐ 85 | 🐛 10 | 🌐 Python | 📅 2022-11-18
-* CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/You_CPPF_Towards_Robust_Category-Level_9D_Pose_Estimation_in_the_Wild_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/qq456cvb/CPPF) ⭐ 58 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-06-13
+* CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/You_CPPF_Towards_Robust_Category-Level_9D_Pose_Estimation_in_the_Wild_CVPR_2022_paper.pdf) [\[Code\]](https://github.com/qq456cvb/CPPF) ⭐ 58 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-05
 * iCaps: Iterative Category-Level Object Pose and Shape Estimation [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9681221)
 * Category-Level 6D Object Pose Estimation With Structure Encoder and Reasoning Attention [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9761189)
 
@@ -601,7 +601,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2024
 
-* SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2311.15707) [\[Code\]](https://github.com/JiehongLin/SAM-6D) ⭐ 730 | 🐛 72 | 🌐 Python | 📅 2024-07-09
+* SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2311.15707) [\[Code\]](https://github.com/JiehongLin/SAM-6D) ⭐ 729 | 🐛 72 | 🌐 Python | 📅 2024-07-09
 * FreeZe: Training-Free Zero-Shot 6D Pose Estimation with Geometric and Vision Foundation Models [\[Paper\]](https://arxiv.org/pdf/2312.00947) [\[Code\]](https://andreacaraffa.github.io/freeze/)
 * MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images [\[Paper\]](https://arxiv.org/pdf/2403.01517)
 
@@ -686,7 +686,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2022
 
-* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 722 | 🐛 114 | 🌐 Python | 📅 2025-10-26
+* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 723 | 🐛 114 | 🌐 Python | 📅 2025-10-26
 * PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking [\[Paper\]](https://arxiv.org/pdf/2209.07589) [\[Code\]](https://github.com/nv-nguyen/pizza) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2022-11-08
 
 #### 2023
@@ -698,7 +698,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 * FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,617 | 🐛 147 | 🌐 Python | 📅 2026-04-29
 * NOPE: Novel Object Pose Estimation from a Single Image [\[Paper\]](https://arxiv.org/pdf/2303.13612) [\[Code\]](https://github.com/nv-nguyen/nope) ⭐ 219 | 🐛 9 | 🌐 Python | 📅 2025-01-02
-* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2403.10683) [\[Code\]](https://github.com/dingdingcai/GSPose) ⭐ 144 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-01-16
+* GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2403.10683) [\[Code\]](https://github.com/dingdingcai/GSPose) ⭐ 143 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-01-16
 * Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [\[Paper\]](https://arxiv.org/pdf/2306.07598) [\[Code\]](https://github.com/paulpanwang/Cas6D) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2024-07-26
 * LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2211.16290) [\[Code\]](https://github.com/sailor-z/LocPoseNet) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2024-02-28
 
@@ -753,7 +753,7 @@ Chronological overview of some representative applications of object pose estima
 <summary>All Methods</summary>
 
 * FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,617 | 🐛 147 | 🌐 Python | 📅 2026-04-29
-* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 722 | 🐛 114 | 🌐 Python | 📅 2025-10-26
+* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 723 | 🐛 114 | 🌐 Python | 📅 2025-10-26
 * OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 459 | 🐛 44 | 🌐 Python | 📅 2026-09-15
 * Deep Multi-state Object Pose Estimation for Augmented Reality Assembly [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8951930)
 * Efficient 6-DoF Tracking of Handheld Objects from an Egocentric Viewpoint [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/html/Rohit_Pandey_Efficient_6-DoF_Tracking_ECCV_2018_paper.html)
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
