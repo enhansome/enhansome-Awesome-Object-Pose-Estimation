@@ -36,7 +36,7 @@ Chronological overview of the datasets for object pose estimation evaluation. No
 <summary>All Datasets</summary>
 
 * YCBInEOAT Dataset [\[Paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9341314) [\[Data\]](https://github.com/wenbowen123/iros20-6d-pose-tracking) ⭐ 424 | 🐛 10 | 🌐 Python | 📅 2023-08-30
-* ClearPose Dataset [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_22) [\[Data\]](https://github.com/opipari/ClearPose) ⭐ 70 | 🐛 8 | 🌐 Python | 📅 2025-10-21
+* ClearPose Dataset [\[Paper\]](https://link.springer.com/chapter/10.1007/978-3-031-20074-8_22) [\[Data\]](https://github.com/opipari/ClearPose) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2025-10-21
 * MP6D Dataset [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9722997) [\[Data\]](https://github.com/yhan9848/MP6D) ⭐ 20 | 🐛 2 | 📅 2023-09-10
 * BOP Challenge Datasets [\[Paper\]](https://arxiv.org/abs/2403.09799) [\[Data\]](https://bop.felk.cvut.cz/challenges/bop-challenge-2023/)
 
