@@ -3250,7 +3250,7 @@
                         "open_issues": 147,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3620,
+                        "stars": 3624,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 147,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3620,
+                        "stars": 3624,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3743,7 +3743,7 @@
                     "open_issues": 87,
                     "owner": "NVlabs",
                     "repo": "Deep_Object_Pose",
-                    "stars": 1182,
+                    "stars": 1183,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 147,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3620,
+                    "stars": 3624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 147,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3620,
+                    "stars": 3624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:42:54.432Z",
+    "last_updated": "2026-10-09T11:36:09.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
