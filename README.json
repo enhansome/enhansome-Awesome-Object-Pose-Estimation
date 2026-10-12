@@ -850,7 +850,7 @@
                         "open_issues": 9,
                         "owner": "Jiang-HB",
                         "repo": "DiffusionReg",
-                        "stars": 125,
+                        "stars": 126,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3083,7 +3083,7 @@
                         "open_issues": 55,
                         "owner": "megapose6d",
                         "repo": "megapose6d",
-                        "stars": 373,
+                        "stars": 374,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3527,7 +3527,7 @@
                         "open_issues": 114,
                         "owner": "liuyuan-pal",
                         "repo": "Gen6D",
-                        "stars": 723,
+                        "stars": 722,
                         "topics": [
                           "6d-pose-estimation",
                           "6dof-pose",
@@ -3743,7 +3743,7 @@
                     "open_issues": 87,
                     "owner": "NVlabs",
                     "repo": "Deep_Object_Pose",
-                    "stars": 1183,
+                    "stars": 1182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3878,7 +3878,7 @@
                     "open_issues": 55,
                     "owner": "megapose6d",
                     "repo": "megapose6d",
-                    "stars": 373,
+                    "stars": 374,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3958,7 +3958,7 @@
                     "open_issues": 114,
                     "owner": "liuyuan-pal",
                     "repo": "Gen6D",
-                    "stars": 723,
+                    "stars": 722,
                     "topics": [
                       "6d-pose-estimation",
                       "6dof-pose",
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:08:33.847Z",
+    "last_updated": "2026-10-12T12:40:48.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
