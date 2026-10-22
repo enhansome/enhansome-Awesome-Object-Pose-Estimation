@@ -731,7 +731,7 @@
                         "open_issues": 7,
                         "owner": "DLR-RM",
                         "repo": "AugmentedAutoencoder",
-                        "stars": 364,
+                        "stars": 365,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2073,7 +2073,7 @@
                         "open_issues": 20,
                         "owner": "zubair-irshad",
                         "repo": "CenterSnap",
-                        "stars": 324,
+                        "stars": 323,
                         "topics": [
                           "3d-computer-vision",
                           "3d-reconstruction",
@@ -2961,7 +2961,7 @@
                         "open_issues": 72,
                         "owner": "JiehongLin",
                         "repo": "SAM-6D",
-                        "stars": 731,
+                        "stars": 732,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3024,7 +3024,7 @@
                         "open_issues": 7,
                         "owner": "DLR-RM",
                         "repo": "AugmentedAutoencoder",
-                        "stars": 364,
+                        "stars": 365,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3646,
+                        "stars": 3648,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3271,7 +3271,7 @@
                         "open_issues": 19,
                         "owner": "nv-nguyen",
                         "repo": "gigapose",
-                        "stars": 295,
+                        "stars": 296,
                         "topics": [
                           "6d-pose-estimation",
                           "6dof",
@@ -3581,7 +3581,7 @@
                         "open_issues": 29,
                         "owner": "NVlabs",
                         "repo": "BundleSDF",
-                        "stars": 1424,
+                        "stars": 1425,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3646,
+                        "stars": 3648,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3743,7 +3743,7 @@
                     "open_issues": 87,
                     "owner": "NVlabs",
                     "repo": "Deep_Object_Pose",
-                    "stars": 1181,
+                    "stars": 1182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3646,
+                    "stars": 3648,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3646,
+                    "stars": 3648,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:46:14.671Z",
+    "last_updated": "2026-10-22T09:45:53.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
