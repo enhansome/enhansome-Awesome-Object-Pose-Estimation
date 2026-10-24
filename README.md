@@ -304,7 +304,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2021
 
-* GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_GDR-Net_Geometry-Guided_Direct_Regression_Network_for_Monocular_6D_Object_Pose_CVPR_2021_paper.pdf) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) ⭐ 350 | 🐛 9 | 🌐 Python | 📅 2024-05-29
+* GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_GDR-Net_Geometry-Guided_Direct_Regression_Network_for_Monocular_6D_Object_Pose_CVPR_2021_paper.pdf) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/GDR-Net) ⭐ 351 | 🐛 9 | 🌐 Python | 📅 2024-05-29
 * Occlusion-Aware Self-Supervised Monocular 6D Object Pose Estimation [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9655492) [\[Code\]](https://github.com/THU-DA-6D-Pose-Group/self6dpp) ⭐ 103 | 🐛 7 | 🌐 Python | 📅 2025-10-13
 * SO-Pose: Exploiting Self-Occlusion for Direct 6D Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Di_SO-Pose_Exploiting_Self-Occlusion_for_Direct_6D_Pose_Estimation_ICCV_2021_paper.pdf) [\[Code\]](https://github.com/shangbuhuan13/SO-Pose) ⭐ 68 | 🐛 5 | 🌐 Python | 📅 2022-05-08
 * CloudAAE: Learning 6D Object Pose Regression with On-Line Data Synthesis on Point Clouds [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9561475) [\[Code\]](https://github.com/GeeeG/CloudAAE) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2021-12-31
@@ -715,7 +715,7 @@ Chronological overview of some representative applications of object pose estima
 <details>
 <summary>6.1.1 Instance-Level Manipulation</summary>
 
-* Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects [\[Paper\]](https://arxiv.org/abs/1809.10790) [\[Code\]](https://github.com/NVlabs/Deep_Object_Pose) ⭐ 1,182 | 🐛 87 | 🌐 Python | 📅 2025-08-06
+* Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects [\[Paper\]](https://arxiv.org/abs/1809.10790) [\[Code\]](https://github.com/NVlabs/Deep_Object_Pose) ⭐ 1,183 | 🐛 87 | 🌐 Python | 📅 2025-08-06
 * MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wada_MoreFusion_Multi-object_Reasoning_for_6D_Pose_Estimation_from_Volumetric_Fusion_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/wkentaro/morefusion) ⚠️ Archived
 * Weakly supervised 6D pose estimation for robotic grasping [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3284398.3284408?casa_token=hiyOcJTmlJgAAAAA:1H5KRQ4FdxdPCJ2467Af29whBsnNmUp9zFvaxDVm6-aNMAanj0K_63MMHf5saonXvzVVnMqSyJ6WOg)
 * Detect in RGB, Optimize in Edge: Accurate 6D Pose Estimation for Texture-less Industrial Parts [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8794330)
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
