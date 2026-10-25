@@ -1439,7 +1439,7 @@
                         "open_issues": 72,
                         "owner": "yuxng",
                         "repo": "PoseCNN",
-                        "stars": 834,
+                        "stars": 835,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1509,7 +1509,7 @@
                         "open_issues": 4,
                         "owner": "liyi14",
                         "repo": "mx-DeepIM",
-                        "stars": 271,
+                        "stars": 272,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1530,7 +1530,7 @@
                         "open_issues": 0,
                         "owner": "jimmyyhwu",
                         "repo": "pose-interpreter-networks",
-                        "stars": 126,
+                        "stars": 127,
                         "topics": [
                           "3d",
                           "artificial-intelligence",
@@ -3083,7 +3083,7 @@
                         "open_issues": 55,
                         "owner": "megapose6d",
                         "repo": "megapose6d",
-                        "stars": 374,
+                        "stars": 375,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3650,
+                        "stars": 3652,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3650,
+                        "stars": 3652,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3650,
+                    "stars": 3652,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3878,7 +3878,7 @@
                     "open_issues": 55,
                     "owner": "megapose6d",
                     "repo": "megapose6d",
-                    "stars": 374,
+                    "stars": 375,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3650,
+                    "stars": 3652,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:14:22.590Z",
+    "last_updated": "2026-10-25T09:31:09.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
