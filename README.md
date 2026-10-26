@@ -267,7 +267,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2019
 
-* DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/j96w/DenseFusion) ⭐ 1,277 | 🐛 70 | 🌐 Python | 📅 2023-01-02
+* DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/j96w/DenseFusion) ⭐ 1,278 | 🐛 70 | 🌐 Python | 📅 2023-01-02
 
 #### 2020
 
@@ -643,7 +643,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2024
 
-* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,652 | 🐛 146 | 🌐 Python | 📅 2026-04-29
+* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,653 | 🐛 146 | 🌐 Python | 📅 2026-04-29
 * GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence [\[Paper\]](https://arxiv.org/pdf/2311.14155) [\[Code\]](https://github.com/nv-nguyen/gigaPose) ⭐ 296 | 🐛 19 | 🌐 Python | 📅 2025-01-06
 * Object Pose Estimation via the Aggregation of Diffusion Features [\[Paper\]](https://arxiv.org/pdf/2403.18791) [\[Code\]](https://github.com/Tianfu18/diff-feats-pose) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-11-25
 * GenFlow: Generalizable Recurrent Flow for 6D Pose Refinement of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2403.11510)
@@ -686,7 +686,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2022
 
-* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 723 | 🐛 114 | 🌐 Python | 📅 2025-10-26
+* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 722 | 🐛 114 | 🌐 Python | 📅 2025-10-26
 * PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking [\[Paper\]](https://arxiv.org/pdf/2209.07589) [\[Code\]](https://github.com/nv-nguyen/pizza) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2022-11-08
 
 #### 2023
@@ -696,7 +696,7 @@ Unseen object pose estimation methods can generalize to unseen objects without t
 
 #### 2024
 
-* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,652 | 🐛 146 | 🌐 Python | 📅 2026-04-29
+* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,653 | 🐛 146 | 🌐 Python | 📅 2026-04-29
 * NOPE: Novel Object Pose Estimation from a Single Image [\[Paper\]](https://arxiv.org/pdf/2303.13612) [\[Code\]](https://github.com/nv-nguyen/nope) ⭐ 219 | 🐛 9 | 🌐 Python | 📅 2025-01-02
 * GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation [\[Paper\]](https://arxiv.org/pdf/2403.10683) [\[Code\]](https://github.com/dingdingcai/GSPose) ⭐ 143 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-01-16
 * Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images [\[Paper\]](https://arxiv.org/pdf/2306.07598) [\[Code\]](https://github.com/paulpanwang/Cas6D) ⭐ 23 | 🐛 6 | 🌐 Python | 📅 2024-07-26
@@ -741,7 +741,7 @@ Chronological overview of some representative applications of object pose estima
 <details>
 <summary>6.1.3 Unseen Object Manipulation</summary>
 
-* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,652 | 🐛 146 | 🌐 Python | 📅 2026-04-29
+* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,653 | 🐛 146 | 🌐 Python | 📅 2026-04-29
 * MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare [\[Paper\]](https://arxiv.org/pdf/2212.06870) [\[Code\]](https://github.com/megapose6d/megapose6d) ⭐ 375 | 🐛 55 | 🌐 Jupyter Notebook | 📅 2024-12-12
 * ZePHyR: Zero-shot Pose Hypothesis Rating [\[Paper\]](https://arxiv.org/pdf/2104.13526) [\[Code\]](https://github.com/r-pad/zephyr) ⭐ 25 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-08-17
 
@@ -752,8 +752,8 @@ Chronological overview of some representative applications of object pose estima
 <details>
 <summary>All Methods</summary>
 
-* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,652 | 🐛 146 | 🌐 Python | 📅 2026-04-29
-* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 723 | 🐛 114 | 🌐 Python | 📅 2025-10-26
+* FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [\[Paper\]](https://arxiv.org/pdf/2312.08344) [\[Code\]](https://github.com/NVlabs/FoundationPose) ⭐ 3,653 | 🐛 146 | 🌐 Python | 📅 2026-04-29
+* Gen6D: Generalizable Model-Free 6-DoF Object Pose Estimation from RGB Images [\[Paper\]](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_18) [\[Code\]](https://github.com/liuyuan-pal/Gen6D) ⭐ 722 | 🐛 114 | 🌐 Python | 📅 2025-10-26
 * OnePose++: Keypoint-Free One-Shot Object Pose Estimation without CAD Models [\[Paper\]](https://papers.nips.cc/paper_files/paper/2022/file/e43f900f571de6c96a70d5724a0fb565-Paper-Conference.pdf) [\[Code\]](https://github.com/zju3dv/OnePose_Plus_Plus) ⭐ 458 | 🐛 44 | 🌐 Python | 📅 2026-09-15
 * Deep Multi-state Object Pose Estimation for Augmented Reality Assembly [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8951930)
 * Efficient 6-DoF Tracking of Handheld Objects from an Egocentric Viewpoint [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/html/Rohit_Pandey_Efficient_6-DoF_Tracking_ECCV_2018_paper.html)
@@ -777,7 +777,7 @@ Chronological overview of some representative applications of object pose estima
 <details>
 <summary>All Methods</summary>
 
-* HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [\[Paper\]](https://arxiv.org/abs/2402.17062) [\[Code\]](https://github.com/amathislab/HOISDF) ⭐ 83 | 🐛 6 | 🌐 Python | 📅 2024-08-31
+* HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [\[Paper\]](https://arxiv.org/abs/2402.17062) [\[Code\]](https://github.com/amathislab/HOISDF) ⭐ 84 | 🐛 6 | 🌐 Python | 📅 2024-08-31
 * Harmonious Feature Learning for Interactive Hand-Object Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Harmonious_Feature_Learning_for_Interactive_Hand-Object_Pose_Estimation_CVPR_2023_paper.pdf) [\[Code\]](https://github.com/lzfff12/HFL-Net) ⭐ 34 | 🐛 6 | 🌐 Python | 📅 2023-07-28
 * Object Learning for 6D Pose Estimation and Grasping from RGB-D Videos of In-hand Manipulation [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/9635884)
 * Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10161264)
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
