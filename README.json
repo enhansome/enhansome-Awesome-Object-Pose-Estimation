@@ -2399,7 +2399,7 @@
                         "open_issues": 2,
                         "owner": "real-stanford",
                         "repo": "garmentnets",
-                        "stars": 68,
+                        "stars": 69,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3662,
+                        "stars": 3665,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3662,
+                        "stars": 3665,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3662,
+                    "stars": 3665,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3662,
+                    "stars": 3665,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:55:05.625Z",
+    "last_updated": "2026-10-29T11:12:54.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
