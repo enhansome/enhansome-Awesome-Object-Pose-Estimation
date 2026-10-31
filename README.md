@@ -233,7 +233,7 @@ Instance-level object pose estimation describes the task of estimating the pose 
 
 #### 2020
 
-* PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/ethnhe/PVN3D.git) ⭐ 541 | 🐛 27 | 🌐 Python | 📅 2022-12-27
+* PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/ethnhe/PVN3D.git) ⭐ 542 | 🐛 27 | 🌐 Python | 📅 2022-12-27
 * 6DoF Object Pose Estimation via Differentiable Proxy Voting Loss [\[Paper\]](https://arxiv.org/abs/2002.03923)
 
 #### 2021
@@ -817,4 +817,4 @@ Due to the one-sided nature of our knowledge, if you find any issues or have any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
