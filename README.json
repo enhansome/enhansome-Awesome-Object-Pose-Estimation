@@ -731,7 +731,7 @@
                         "open_issues": 8,
                         "owner": "DLR-RM",
                         "repo": "AugmentedAutoencoder",
-                        "stars": 365,
+                        "stars": 366,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -892,7 +892,7 @@
                         "open_issues": 8,
                         "owner": "zju3dv",
                         "repo": "pvnet",
-                        "stars": 902,
+                        "stars": 903,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -920,7 +920,7 @@
                         "open_issues": 27,
                         "owner": "ethnhe",
                         "repo": "PVN3D",
-                        "stars": 542,
+                        "stars": 544,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1088,7 +1088,7 @@
                         "open_issues": 70,
                         "owner": "j96w",
                         "repo": "DenseFusion",
-                        "stars": 1278,
+                        "stars": 1280,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1460,7 +1460,7 @@
                         "open_issues": 10,
                         "owner": "wadimkehl",
                         "repo": "ssd-6d",
-                        "stars": 313,
+                        "stars": 314,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -1698,7 +1698,7 @@
                         "open_issues": 32,
                         "owner": "yannlabb",
                         "repo": "cosypose",
-                        "stars": 353,
+                        "stars": 354,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2073,7 +2073,7 @@
                         "open_issues": 20,
                         "owner": "zubair-irshad",
                         "repo": "CenterSnap",
-                        "stars": 322,
+                        "stars": 323,
                         "topics": [
                           "3d-computer-vision",
                           "3d-reconstruction",
@@ -2481,7 +2481,7 @@
                         "open_issues": 3,
                         "owner": "Meowuu7",
                         "repo": "equi-articulated-pose",
-                        "stars": 56,
+                        "stars": 57,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2961,7 +2961,7 @@
                         "open_issues": 72,
                         "owner": "JiehongLin",
                         "repo": "SAM-6D",
-                        "stars": 739,
+                        "stars": 740,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3024,7 +3024,7 @@
                         "open_issues": 8,
                         "owner": "DLR-RM",
                         "repo": "AugmentedAutoencoder",
-                        "stars": 365,
+                        "stars": 366,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3083,7 +3083,7 @@
                         "open_issues": 55,
                         "owner": "megapose6d",
                         "repo": "megapose6d",
-                        "stars": 378,
+                        "stars": 380,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3700,
+                        "stars": 3702,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3340,7 +3340,7 @@
                         "open_issues": 46,
                         "owner": "zju3dv",
                         "repo": "OnePose",
-                        "stars": 1011,
+                        "stars": 1012,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3361,7 +3361,7 @@
                         "open_issues": 44,
                         "owner": "zju3dv",
                         "repo": "OnePose_Plus_Plus",
-                        "stars": 456,
+                        "stars": 457,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3527,7 +3527,7 @@
                         "open_issues": 114,
                         "owner": "liuyuan-pal",
                         "repo": "Gen6D",
-                        "stars": 724,
+                        "stars": 725,
                         "topics": [
                           "6d-pose-estimation",
                           "6dof-pose",
@@ -3581,7 +3581,7 @@
                         "open_issues": 29,
                         "owner": "NVlabs",
                         "repo": "BundleSDF",
-                        "stars": 1429,
+                        "stars": 1432,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3700,
+                        "stars": 3702,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3700,
+                    "stars": 3702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3878,7 +3878,7 @@
                     "open_issues": 55,
                     "owner": "megapose6d",
                     "repo": "megapose6d",
-                    "stars": 378,
+                    "stars": 380,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3700,
+                    "stars": 3702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3958,7 +3958,7 @@
                     "open_issues": 114,
                     "owner": "liuyuan-pal",
                     "repo": "Gen6D",
-                    "stars": 724,
+                    "stars": 725,
                     "topics": [
                       "6d-pose-estimation",
                       "6dof-pose",
@@ -3984,7 +3984,7 @@
                     "open_issues": 44,
                     "owner": "zju3dv",
                     "repo": "OnePose_Plus_Plus",
-                    "stars": 456,
+                    "stars": 457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:16:56.130Z",
+    "last_updated": "2026-11-17T14:01:29.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
