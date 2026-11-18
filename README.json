@@ -1881,7 +1881,7 @@
                         "id": 772308676,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2024-05-30T18:49:15Z",
+                        "last_commit": "2026-11-17T23:52:13Z",
                         "open_issues": 8,
                         "owner": "amzn",
                         "repo": "mrc-net-6d-pose",
@@ -2273,7 +2273,7 @@
                         "open_issues": 1,
                         "owner": "CNJianLiu",
                         "repo": "MH6D",
-                        "stars": 39,
+                        "stars": 41,
                         "topics": [
                           "6d",
                           "6d-pose-estimation",
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3702,
+                        "stars": 3703,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3702,
+                        "stars": 3703,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3800,7 +3800,7 @@
                     "open_issues": 0,
                     "owner": "CNJianLiu",
                     "repo": "6D-CLGrasp",
-                    "stars": 69,
+                    "stars": 71,
                     "topics": [
                       "6d",
                       "6d-pose-estimation",
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3702,
+                    "stars": 3703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3702,
+                    "stars": 3703,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:01:29.863Z",
+    "last_updated": "2026-11-18T13:36:23.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
@@ -4132,7 +4132,7 @@
       "open_issues": 0,
       "owner": "CNJianLiu",
       "repo": "Awesome-Object-Pose-Estimation",
-      "stars": 460,
+      "stars": 462,
       "topics": [
         "6d",
         "6d-pose",
