@@ -119,7 +119,7 @@
                     "open_issues": 31,
                     "owner": "google-research-datasets",
                     "repo": "Objectron",
-                    "stars": 2361,
+                    "stars": 2362,
                     "topics": [
                       "3d",
                       "3d-reconstruction",
@@ -3250,7 +3250,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3713,
+                        "stars": 3716,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3609,7 +3609,7 @@
                         "open_issues": 146,
                         "owner": "NVlabs",
                         "repo": "FoundationPose",
-                        "stars": 3713,
+                        "stars": 3716,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3651,7 +3651,7 @@
                         "open_issues": 15,
                         "owner": "dingdingcai",
                         "repo": "GSPose",
-                        "stars": 143,
+                        "stars": 144,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3857,7 +3857,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3713,
+                    "stars": 3716,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3937,7 +3937,7 @@
                     "open_issues": 146,
                     "owner": "NVlabs",
                     "repo": "FoundationPose",
-                    "stars": 3713,
+                    "stars": 3716,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T15:35:17.508Z",
+    "last_updated": "2026-11-24T15:27:33.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
