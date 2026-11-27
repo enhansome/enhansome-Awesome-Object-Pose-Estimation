@@ -473,7 +473,7 @@
                         "open_issues": 6,
                         "owner": "princeton-vl",
                         "repo": "Coupled-Iterative-Refinement",
-                        "stars": 115,
+                        "stars": 116,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -2961,7 +2961,7 @@
                         "open_issues": 72,
                         "owner": "JiehongLin",
                         "repo": "SAM-6D",
-                        "stars": 739,
+                        "stars": 740,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3083,7 +3083,7 @@
                         "open_issues": 55,
                         "owner": "megapose6d",
                         "repo": "megapose6d",
-                        "stars": 379,
+                        "stars": 380,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:05:51.081Z"
@@ -3878,7 +3878,7 @@
                     "open_issues": 55,
                     "owner": "megapose6d",
                     "repo": "megapose6d",
-                    "stars": 379,
+                    "stars": 380,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T17:05:51.081Z"
@@ -4016,7 +4016,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-11-01T12:32:27Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "cvlab-epfl",
                     "repo": "wide-depth-range-pose",
                     "stars": 81,
@@ -4120,7 +4120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T14:38:05.185Z",
+    "last_updated": "2026-11-27T14:33:26.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "[IJCV 2026] Project Page for \"Deep Learning-Based Object Pose Estimation: A Comprehensive Survey\".",
